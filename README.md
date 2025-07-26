@@ -13,4 +13,5 @@ A modern Flutter e-commerce furniture app with a clean UI and multiple screens l
     🧭 Bottom Navigation Bar for screen switching
     🎨 Custom theme with smooth UI and rounded layouts
 
->>>>>>> 9cc8fc8caf3cdce39d64463d7ad06dce732176bb
+
+![WhatsApp Image 2025-07-26 at 04 36 43_18777b49](https://github.com/user-attachments/assets/c55ed128-aa70-4cec-90fc-33d0ee3bf48f)
